@@ -34,7 +34,7 @@ function App() {
           <button className='text-white bg-green-500 py-2 px-6 border-0 rounded text-lg hover:bg-green-500 duration-300'>Contact Me</button>
         </div>
         <div className='md:w-1/2 lg:max-w-lg w-5/6'>
-        <img src="./public/img/myPicture.png" alt="自分の写真" />
+        <img src="C:\Users\WebEngineer.E10.000\Desktop\dev\tailwindcss-portfllio\public\myPicture.png" alt="自分の写真" />
         </div>
       </div>
     </section>
